@@ -1,0 +1,7 @@
+.alert-success .alert-wrapper {
+  background-color: #e0ffe0 !important;
+}
+
+.alert-error .alert-wrapper {
+  background-color: #ffdcdc !important;
+}
